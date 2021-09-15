@@ -1,0 +1,16 @@
+body{
+    color: #222;
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0%;
+}
+.zona-arrastre{
+    padding: 50px 20px;
+    border: 4px dashed #222;
+    max-width: 500px;
+    color: #888;
+    margin:auto;
+    margin-top: 30px;
+    text-align: center;
+
+}
